@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Segoe UI,
+        SegoeUI,
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif;
+}
